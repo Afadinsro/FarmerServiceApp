@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779314766835",
+    "firebase_url": "https://farmer-service-app.firebaseio.com",
+    "project_id": "farmer-service-app",
+    "storage_bucket": "farmer-service-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779314766835:android:62aa2fb0bcb2edc2",
+        "android_client_info": {
+          "package_name": "com.adino.farmerserviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779314766835-gkpju8uqar1m1adj9856vm3c5a4i5i26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adino.farmerserviceapp",
+            "certificate_hash": "365b5e4f45e7d5dbd297cfdb8f185224e40c3488"
+          }
+        },
+        {
+          "client_id": "779314766835-ou0sobb6qdavkr06m978b4d4v8ag60rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGV0j8cW3gSKMNj7siV3tDwA5WdLiybc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779314766835-ou0sobb6qdavkr06m978b4d4v8ag60rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
